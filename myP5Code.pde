@@ -14,6 +14,16 @@ void draw(){
   ellipse(200, 300, 150, 150);
   ellipse(200, 200, 100, 100);
   ellipse(200, 120, 75, 75);
+  triangle(195,120, 225, 123, 195, 132);
+  strokeWeight(10);
+  point(198,185);
+  point(199, 208);
+  strokeWeight(11);
+  point(185, 114);
+  point(215, 114);
+  strokeWeight(4);
+  line(248, 184,311, 138)
+  line(153, 175, 100, 130)
   
 
 }
